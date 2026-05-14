@@ -78,6 +78,6 @@ Project Management System
 This Airtable project demonstrates the power of combining structured data management with simple automations to enhance project workflow and communication. It serves as a foundation that can be easily expanded to accommodate more complex project management needs.
 
 ## Contact Me
-Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/
+Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal/
 
 
