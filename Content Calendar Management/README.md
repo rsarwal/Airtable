@@ -90,5 +90,5 @@ This Airtable project demonstrates a comprehensive content calendar management s
 This Airtable project showcases the power of combining structured data management with automations to create an efficient content calendar system. It demonstrates skills in database design, workflow automation, and project management, making it a valuable addition to your portfolio.
 
 ## Contact Me
-Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/
+Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal/
 
