@@ -461,29 +461,28 @@ The underlying relational tables maintain the system of record, while Airtable I
 ## Screenshots
 
 ### Operations Dashboard
-
-Add screenshot here showing:
-
-- KPI cards
-- Vendor Status Distribution
-- Vendor Type
+![Operations Dashboard](assets/operations_dashboard_kpi.png)
+The operations dashboard provides real-time visibility into vendor volume, approval status, documents awaiting review, vendor status distribution, and vendor classification.
 
 ### Documents by Status
 
-Add screenshot here showing the document-status visualization.
+![Documents by Status](assets/documents_by_status.png)
+Document-level reporting provides visibility into Approved, Under Review, Requested, Expired, and Rejected documentation.
 
 ### Action Required View
 
-Add screenshot here showing vendors requiring operational attention.
+![Action Required](assets/operations_dashboard_action_required.png)
+The Action Required interface surfaces vendors requiring operational intervention based on documentation and compliance status.
 
 ### Document Workflow
 
-Add screenshot here showing the Documents table and document statuses.
+![Document Workflow](assets/document-workflow.png)
+The Documents table tracks each vendor document through its lifecycle from Requested through review, approval, rejection, or expiration.
 
 ### Action Queue
 
-Add screenshot here showing open and closed operational tasks.
-
+![Action Queue](assets/action-queue.png)
+The Action Queue provides a centralized worklist for unresolved documentation issues and automatically closes tasks when the underlying issue is resolved.
 ---
 
 ## Skills Demonstrated
@@ -583,3 +582,61 @@ The result is a system designed to help operations teams answer three questions 
 - Approval Workflows
 - Executive Reporting
 - Vendor Analytics
+
+  ---
+
+## Project Roadmap
+
+### Version 1.0 — Core Vendor Management System
+
+**Completed**
+
+- Relational Database Design
+- Vendor Management
+- Contact Management
+- Document Management
+- Linked Record Architecture
+- Lookup Fields
+- Rollup Fields
+- Formula Fields
+- Operations Dashboard
+- Vendor Management Console
+- Interactive Airtable Interfaces
+
+### Version 2.0 — Workflow Automation & Compliance Management
+
+**Completed**
+
+- Vendor Intake Form
+- Automated Vendor Onboarding
+- Automated Vendor Status Updates
+- W-9 Approval Workflow
+- Automated Required Document Creation
+- Document Review Workflow
+- Document Expiration Monitoring
+- Automated Action Queue Creation
+- Automated Action Queue Closure
+- Open Task Tracking
+- Vendor-Level Compliance Indicators
+- Duplicate Document Prevention
+- Idempotent W-9 Workflow Controls
+- Action Required Dashboard
+- Document Status Reporting
+
+### Version 2.1 — Planned
+
+- Compliance Reminder Emails
+- Pre-Expiration Document Notifications
+- Automated Renewal Reminders
+- Escalation Rules for Overdue Documents
+- Approval and Review Audit Timestamps
+
+### Version 3.0 — Future
+
+- Contract Lifecycle Management
+- Vendor Self-Service Document Portal
+- Role-Based Approval Workflows
+- Procurement / CRM Integration
+- Slack or Microsoft Teams Notifications
+- External Workflow Integration via API, Make, or Zapier
+- SLA and Compliance Performance Reporting
