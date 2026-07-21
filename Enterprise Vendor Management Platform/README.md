@@ -424,7 +424,7 @@ Provides a focused operational view of vendors requiring intervention because of
 
 ### Operations Dashboard
 
-![Operations Dashboard](screenshots/operations-dashboard.png)
+![Operations Dashboard](assets/operations-dashboard.png)
 
 Provides a high-level operational view of vendor volume, approval status, documents awaiting review, vendor status distribution, and vendor classification.
 
@@ -436,19 +436,19 @@ Provides visibility into the current document pipeline across Approved, Under Re
 
 ### Action Required
 
-![Action Required](screenshots/action-required.png)
+![Action Required](assets/action-required.png)
 
 Surfaces vendors requiring operational intervention based on documentation and compliance status.
 
 ### Document Workflow
 
-![Document Workflow](screenshots/document-workflow.png)
+![Document Workflow](assets/document-workflow.png)
 
 Tracks vendor documents through their lifecycle from Requested through review, approval, rejection, and expiration.
 
 ### Action Queue
 
-![Action Queue](screenshots/action-queue.png)
+![Action Queue](assets/action-queue.png)
 
 Provides a centralized worklist for documentation exceptions and tracks both open and resolved operational tasks.
 
