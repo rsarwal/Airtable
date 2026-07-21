@@ -442,7 +442,7 @@ Surfaces vendors requiring operational intervention based on documentation and c
 
 ### Document Workflow
 
-![Document Workflow](assets/operations_document_workflow.png)
+![Document Workflow](assets/documents_table.png)
 
 Tracks vendor documents through their lifecycle from Requested through review, approval, rejection, and expiration.
 
