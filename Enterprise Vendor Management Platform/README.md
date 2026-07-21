@@ -430,7 +430,7 @@ Provides a high-level operational view of vendor volume, approval status, docume
 
 ### Documents by Status
 
-![Documents by Status](screenshots/dashboard_doc_status.png)
+![Documents by Status](assets/dashboard_doc_status.png)
 
 Provides visibility into the current document pipeline across Approved, Under Review, Requested, Expired, and Rejected statuses.
 
@@ -442,13 +442,13 @@ Surfaces vendors requiring operational intervention based on documentation and c
 
 ### Document Workflow
 
-![Document Workflow](assets/operations_document-workflow.png)
+![Document Workflow](assets/operations_document_workflow.png)
 
 Tracks vendor documents through their lifecycle from Requested through review, approval, rejection, and expiration.
 
 ### Action Queue
 
-![Action Queue](assets/action-queue.png)
+![Action Queue](assets/action_queue.png)
 
 Provides a centralized worklist for documentation exceptions and tracks both open and resolved operational tasks.
 
