@@ -151,19 +151,19 @@ The application is built using a relational database model.
 
 ## Operations Dashboard - KPIs
 
-![Operations KPIs](assets/operations_kpi_dashboard.png)
+![Operations KPIs](assets/operations_dashboard_kpi.png)
 
 ---
 
 ## Operations Dashboard - Action Required
 
-![Action Required Dashboard](assets/action_reqd_dashboard.png)
+![Action Required Dashboard](assets/operations_dashboard_action_reqd.png)
 
 ---
 
 ## Operations Dashboard - Document Status
 
-![Document Status Dashboard](assets/document_status_dashboard.png)
+![Document Status Dashboard](assets/operations_document_dashboard_status.png)
 
 ---
 
